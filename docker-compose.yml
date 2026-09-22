@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    env_file:
+      - .env.example
+    volumes:
+      - .:/app
+    command: uv run python -m app
