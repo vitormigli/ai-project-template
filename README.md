@@ -1,4 +1,13 @@
-# AI Project Template
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0A66C2&height=110&section=header&text=Project%20Name&fontSize=32&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+<!-- Replace "Project Name" above, and update these badges' repo path when instantiating. -->
+[![CI](https://github.com/vitormigli/REPO_NAME/actions/workflows/ci.yml/badge.svg)](https://github.com/vitormigli/REPO_NAME/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.11+-3776AB?logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-API-D97757?logo=anthropic&logoColor=white)
+
+</div>
 
 A starting point for AI/LLM engineering projects that ship with tests, evals, and CI from day one.
 

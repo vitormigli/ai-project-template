@@ -8,6 +8,9 @@ This project follows the rules of the portfolio master plan:
 3. Every project reports numeric evaluation metrics — see `evals/`.
 4. Everything runs with a single command: `docker compose up` or `make run`.
 5. README in English, with a short "Resumo em português" section at the end.
+   Open with a capsule-render header banner + CI/Python/Claude badges, matching
+   the style of vitormigli/vitormigli and the other portfolio repos — see this
+   README's own header for the pattern to copy.
 6. Small, descriptive commits using Conventional Commits (`feat:`, `fix:`,
    `docs:`, `test:`).
 7. Prefer simplicity — use the API SDK directly before reaching for a heavy
